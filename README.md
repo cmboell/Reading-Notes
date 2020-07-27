@@ -12,4 +12,5 @@ A **growth mindset** is achieved when you believe you can be successful through 
 
 [Growth Mindset Info](/growthmindset.md)
 
-~~Fixed Mindset~~ >Have a Growth Mindset attitude!
+Get rid of that ~~Fixed Mindset~~ 
+> Have a Growth Mindset attitude!
