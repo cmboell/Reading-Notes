@@ -1,8 +1,8 @@
 # learning-journal
-## Growth Mindset
+## *Growth Mindset*
 A **growth mindset** is achieved when you believe you can be successful through perseverance and effort. Believing that hard work and learning will help you achieve your goals. A **fixed mindset** believes that success can only come from intelligence and inherent talent. Having a growth style mindset will help you learn from your mistakes, grow as you learn and try to achieve goals, and will also help you have a positive mindset about your expriences. 
 
-## Having a Growth Mindset
+## *Having a Growth Mindset*
 By having a positive mindset I will be able to stay focused on learning and the tasks ahead and it will help my reach my personal goals. In order for me to keep in the growth mindset state of mind, I will:
  1. Take on new challenges and embrace them as they come my way.
  2. Learn from my weaknesses and criticisms.
