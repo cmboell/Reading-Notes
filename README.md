@@ -9,6 +9,9 @@ A **growth mindset** is achieved when you believe you can be successful through 
  3. Take inspiration from others successes, rather than view them as a threat.
  4. Remember to keep focus when presented with obsticales, rather then let them deter me.
  5. Remind myself that success can come from hard work and learning.
+ 
+ ## About Me
+ My name is Colby Boell. I live in Carroll, Ia. I am going to school for computer languages. I hope you enjoyed this page I have created for growth mindsets. Feel free to check out my github page:
 
 [Growth Mindset Info](/growthmindset.md)
 
