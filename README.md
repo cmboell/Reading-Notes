@@ -1,3 +1,3 @@
 # learning-journal
 ## Growth Mindset
-~~ Fixed Mindset ~~
+~~Fixed Mindset~~
