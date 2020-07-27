@@ -16,5 +16,6 @@ Get rid of that ~~Fixed Mindset~~ and start having a growth mindset.
 
 
  ## About Me
+ 
  My name is Colby Boell. I live in Carroll, Ia. I am going to school for computer languages. I hope you enjoyed this page I have created for growth mindsets. Feel free to check out my github page: https://github.com/cmboell
 > Have a Growth Mindset attitude!
