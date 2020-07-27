@@ -10,6 +10,6 @@ By having a positive mindset I will be able to stay focused on learning and the 
  4. Remember to keep focus when presented with obsticales, rather then let them deter me.
  5. Remind myself that success can come from hard work and learning.
 
-[Growth Mindset](/)
+[Growth Mindset](/growthmindset.md)
 
 ~~Fixed Mindset~~ Have a Growth Mindset attitude!
