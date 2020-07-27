@@ -14,5 +14,7 @@ A **growth mindset** is achieved when you believe you can be successful through 
 
 Get rid of that ~~Fixed Mindset~~ 
 > Have a Growth Mindset attitude!
+
+
  ## About Me
  My name is Colby Boell. I live in Carroll, Ia. I am going to school for computer languages. I hope you enjoyed this page I have created for growth mindsets. Feel free to check out my github page: https://github.com/cmboell
